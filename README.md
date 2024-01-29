@@ -1,5 +1,5 @@
 # PREVIEW Simple Stock Desktop APPS
-This APPS Build With Apache NetBeans IDE 15
+This APPS Build On Apache NetBeans IDE 15 With JDK 8
 
 ![alt text](https://github.com/AlwiAnggoro/Stok-Barang-Simpel-Simple-Stock-Software/blob/main/Screenshots/1.png?raw=true)
 ![alt text](https://github.com/AlwiAnggoro/Stok-Barang-Simpel-Simple-Stock-Software/blob/main/Screenshots/2.png?raw=true)
